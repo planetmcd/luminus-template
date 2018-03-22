@@ -44,6 +44,7 @@ However, if you would like to attach further functionality to your template you 
 * `+cljs` adds [ClojureScript][cljs] support to the project
 * `+reagent` adds [ClojureScript][cljs] support with [Reagent](https://reagent-project.github.io/) to the project along with an example
 * `+re-frame` adds [ClojureScript][cljs] support with [re-frame](https://github.com/Day8/re-frame) to the project along with an example
+* `+devcards` adds [Devcards][https://github.com/bhauman/devcards] support to the project
 
 ### misc
 
