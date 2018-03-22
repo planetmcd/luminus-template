@@ -228,7 +228,7 @@
                              ;;servers
                              "+aleph" "+jetty" "+http-kit"
                              ;;misc
-                             "+cljs" "+hoplon" "+reagent" "+re-frame" "+auth" "+auth-jwe" "+site"
+                             "+cljs" "+hoplon" "+reagent" "+devcards" "+re-frame" "+auth" "+auth-jwe" "+site"
                              "+cucumber" "+sassc" "+cider" "+oauth"
                              "+swagger" "+war" "+graphql"
                              "+kibit" "+service"
