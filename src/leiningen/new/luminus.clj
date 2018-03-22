@@ -205,6 +205,7 @@
       (set-feature-dependency "+auth-jwe" #{"+auth-base"})
       (set-feature-dependency "+hoplon" #{"+cljs"})
       (set-feature-dependency "+reagent" #{"+cljs"})
+      (set-feature-dependency "+devcards" #{"+cljs" "+reagent"})
       (set-feature-dependency "+re-frame" #{"+cljs" "+reagent"})))
 
 (defn parse-version [v]
