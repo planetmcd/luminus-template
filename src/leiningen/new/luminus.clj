@@ -16,6 +16,7 @@
             [leiningen.new.cljs :refer [cljs-features]]
             [leiningen.new.hoplon :refer [hoplon-features]]
             [leiningen.new.reagent :refer [reagent-features]]
+            [leiningen.new.devcards :refer [devcard-features]]
             [leiningen.new.re-frame :refer [re-frame-features]]
             [leiningen.new.cucumber :refer [cucumber-features]]
             [leiningen.new.aleph :refer [aleph-features]]
@@ -162,6 +163,7 @@
             cljs-features
             hoplon-features
             reagent-features
+            devcards-features
             re-frame-features
             swagger-features
             graphql-features
